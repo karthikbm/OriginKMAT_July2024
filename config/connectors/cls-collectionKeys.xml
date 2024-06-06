@@ -3,6 +3,7 @@
     <cloudstreamsCollectionKeys serviceName="WmCloudStreams.SoapVS">
         <servicesKeys>
             <keyDetails collectionKey="SF_CCS:SF_DEV_QueryAccounts" connectorServiceName="SF_CCS:SF_DEV_QueryAccounts"/>
+            <keyDetails collectionKey="SF_CCS:SF_Query_Second" connectorServiceName="SF_CCS:SF_Query_Second"/>
         </servicesKeys>
     </cloudstreamsCollectionKeys>
 </services>
